@@ -221,7 +221,7 @@
 		354A10401A0C619D005B2948 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
-				CODE_SIGN_IDENTITY = "Developer ID";
+				CODE_SIGN_IDENTITY = "";
 				INFOPLIST_FILE = mackernaltest/Info.plist;
 				MODULE_NAME = com.gnuhub.mackernaltest;
 				MODULE_START = mackernaltest_start;
@@ -235,7 +235,7 @@
 		354A10411A0C619D005B2948 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
-				CODE_SIGN_IDENTITY = "Developer ID";
+				CODE_SIGN_IDENTITY = "";
 				INFOPLIST_FILE = mackernaltest/Info.plist;
 				MODULE_NAME = com.gnuhub.mackernaltest;
 				MODULE_START = mackernaltest_start;
